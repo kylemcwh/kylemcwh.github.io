@@ -1,0 +1,120 @@
+{
+    "basics": {
+      "name": "Kyle Mcwhirter",
+      "label": "Student",
+      "picture": "https://kylemcwh.github.io/images/Me.jpg",
+      "email": "kylemcwh@hawaii.edu",
+      "phone": "425-233-7513",
+      "website": "https://kylemcwh.github.io",
+      "summary": "I am studying for a double major in Business Administration and Management Information Systems at the University of Hawaii at Manoa. I expect to graduate in Spring, 2023.",
+      "location": {
+        "address": "",
+        "postalCode": "96822",
+        "city": "Honolulu",
+        "countryCode": "USA",
+        "region": "Hawaii"
+      },
+      "profiles": [
+        {
+          "network": "github",
+          "username": "kylemcwh",
+          "url": "http://github.com/kylemcwh"
+        },
+        {
+          "network": "linkedin",
+          "username": "kylemcwhirter",
+          "url": "http://linkedin.com/in/kylemcwhirter"
+        }
+      ]
+    },
+    "interests": [
+      {
+        "name": "surfing",
+        "keywords": [
+          "Arduino",
+          "TI MSP430"
+        ]
+      },
+      {
+        "name": "horticulture",
+        "keywords": [
+        ]
+      },
+      {
+        "name": "cryptocurrency",
+        "keywords": [
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Languages and Frameworks",
+        "level": "Novice",
+        "keywords": [
+          "C",
+          "C++",
+          "Java",
+          "Javascript"
+        ]
+      },
+      {
+        "name": "Toolsets/OS",
+        "level": "",
+        "keywords": [
+          "Windows",
+          "Git/GitHub"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Hawaii at Manoa, Honolulu, HI",
+        "area": "Business Administration and Management Information Systems (expected Spring, 2023)",
+        "studyType": "B.S.",
+        "startDate": "2019-08-14",
+        "endDate": "Present",
+        "gpa": "3.39",
+        "courses": [
+        ]
+      }
+    ],
+    "work": [
+      {
+        "company": "Quiora",
+        "position": "Pool Floater",
+        "website": "",
+        "startDate": "2022-01-20",
+        "endDate": "Present",
+        "summary": "FoodRunner",
+        "highlights": [
+          "Maintain, update, and oversee restaurant operations"
+        ]
+      },
+      {
+        "company": "Kona Cloud Forest Sanctuary",
+        "position": "Botnical Guide",
+        "website": "",
+        "startDate": "2019-05-05",
+        "endDate": "2019-08-15",
+        "summary": "Educate people on the history geology, biology, and climate of Hawaii",
+        "highlights": [
+          "Lead guided tours through the Cloud Forest, identifying flora and fauna",
+          ""
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "Dean's List",
+        "date": "2021-Present",
+        "awarder": "University of Hawaii",
+        "summary": "Awarded to students who obtain a GPA of 3.0 or above at the Univerity of Hawai'i."
+      }
+    ],
+    "references": [
+      {
+        "name": "Available upon request",
+        "reference": "Kona Cloud Forest Sanctuary"
+      }
+    ]
+  }
